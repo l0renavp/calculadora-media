@@ -1,2 +1,2 @@
-# calculadora-m-dia
+# calculadora-media
 Calculadora para médias escolares.
